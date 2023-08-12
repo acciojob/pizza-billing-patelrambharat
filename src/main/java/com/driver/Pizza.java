@@ -86,7 +86,7 @@ public class Pizza {
             bill += "Paperbag Added: 20\n";
         }
         String totalPrice = Integer.toString(price);
-        bill = bill + "Total Price: " + totalPrice + "\n";
+        bill = bill + "total Price: " "\n";
         return this.bill;
     }
 }
